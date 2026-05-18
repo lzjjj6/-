@@ -1,8 +1,3 @@
-"""
-Privacy-preserving DBSCAN聚类算法实现
-基于论文：PPA-DBSCAN: Privacy-Preserving ρ-Approximate Density-Based Clustering
-"""
-
 import numpy as np
 from typing import List, Set, Tuple
 from geometry import Point2D
