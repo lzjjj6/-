@@ -1,4 +1,4 @@
-# Privacy-Preserving Robust Fitting
+# Design and Implementation of Robust Model Fitting Algorithms for Differential Privacy
 
 > 基于差分隐私与 PP-DBSCAN 的二维点云鲁棒拟合实验框架  
 > 毕业设计 · Python 实现
