@@ -1,7 +1,6 @@
 # Design and Implementation of Robust Model Fitting Algorithms for Differential Privacy
 
 > 基于差分隐私与 PP-DBSCAN 的二维点云鲁棒拟合实验框架  
-> 毕业设计 · Python 实现
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-≥1.20-orange.svg)](https://numpy.org/)
@@ -13,6 +12,7 @@
 
 ## 目录
 
+- [项目声明](#项目声明)
 - [项目亮点](#项目亮点)
 - [算法架构](#算法架构)
 - [快速开始](#快速开始)
@@ -25,6 +25,16 @@
 - [常见问题](#常见问题)
 - [致谢](#致谢)
 - [许可证](#许可证)
+
+---
+
+##项目声明
+
+项目名称：面向差分隐私的鲁棒模型拟合算法设计与实现
+项目作者：Liao Zhijun
+作者单位：暨南大学网络空间安全学院
+开发语言：Python
+核心技术：鲁棒拟合算法（RANSAC、LSC）、差分隐私、PP-DBSCAN
 
 ---
 
